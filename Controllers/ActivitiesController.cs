@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ProyectCore.DAL.Models;
 
+//kasjdakjfbakjbnkdajv
+
 namespace ProjectCore.Controllers
 {
     public class ActivitiesController : Controller
