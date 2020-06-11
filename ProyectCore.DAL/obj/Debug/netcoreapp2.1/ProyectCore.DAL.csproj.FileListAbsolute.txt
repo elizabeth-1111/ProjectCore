@@ -1,0 +1,12 @@
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\bin\Debug\netcoreapp2.1\ProyectCore.DAL.deps.json
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\bin\Debug\netcoreapp2.1\ProyectCore.DAL.runtimeconfig.json
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\bin\Debug\netcoreapp2.1\ProyectCore.DAL.runtimeconfig.dev.json
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\bin\Debug\netcoreapp2.1\ProyectCore.DAL.dll
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\bin\Debug\netcoreapp2.1\ProyectCore.DAL.pdb
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.csprojAssemblyReference.cache
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.AssemblyInfoInputs.cache
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.AssemblyInfo.cs
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.dll
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.pdb
+C:\Users\ELIZABETH\source\repos\projectCore\ProyectCore.DAL\obj\Debug\netcoreapp2.1\ProyectCore.DAL.genruntimeconfig.cache
