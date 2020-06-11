@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ProyectCore.DAL.Models;
 
-//kasjdakjfbakjbnkdajv
+//aaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 namespace ProjectCore.Controllers
 {
